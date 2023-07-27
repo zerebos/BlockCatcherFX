@@ -1,4 +1,7 @@
 .settings/
+.vscode/
 bin/
+build/
+dist/
 .classpath
 .project

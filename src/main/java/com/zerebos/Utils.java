@@ -1,3 +1,4 @@
+package com.zerebos;
 import javafx.scene.paint.Color;
 
 public final class Utils {

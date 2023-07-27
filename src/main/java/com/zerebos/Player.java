@@ -1,3 +1,4 @@
+package com.zerebos;
 public class Player extends javafx.scene.shape.Rectangle {
 	
 	//setTranslateX

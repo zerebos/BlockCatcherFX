@@ -1,3 +1,4 @@
+package com.zerebos;
 import javafx.scene.paint.Color;
 
 public class Block extends javafx.scene.shape.Rectangle {

@@ -1,7 +1,7 @@
 package com.zerebos;
 /*
- * Copyright (c) 2015 Zack Rauen
- * Website: www.ZackRauen.com
+ * Copyright (c) 2015 Zerebos
+ * Website: www.Zerebos.com
  *
  * All rights reserved. Use is subject to license terms.
  *
@@ -29,7 +29,7 @@ package com.zerebos;
  * The class allows for easy-to-make alerts and error dialogs
  * with easy to use wrappers if you only want to use certain
  * pieces of the alert.
- * @author Zack Rauen
+ * @author Zerebos
  * @version 1.1
  */
 public final class FXUtils {
